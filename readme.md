@@ -1,0 +1,1 @@
+This are resources for the C classes I take for my classmates. You can ignore this repo completely
